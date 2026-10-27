@@ -8,6 +8,13 @@ Rafaela Bonifacio Galvão	48178837	rbonifaciogalvao-sudo
 Wilchid Vilsaint	47443227	wilchid1-cpu
 Yago Lima de Queiroz	48140597	yagoqueiroz250-bit
 
+
+| Nome completo do aluno | RGM |	Usuário do GitHub |
+| Rafaela Bonifacio Galvão | 48178837 |rbonifaciogalvao-sudo|
+| Wilchid Vilsaint | 47443227 | wilchid1-cpu |
+| Yago Lima de Queiroz | 48140597 | yagoqueiroz250-bit |
+
+
 1.1 Revisão do Modelo Conceitual (obrigatória, sem peso próprio — mas todo o restante da entrega é construído e avaliado sobre este modelo: um erro que permanecer no DER revisado se propaga para a conversão, a normalização, o modelo lógico e o script SQL) Caracterização da organização (todos os grupos) Repita aqui a caracterização da organização — atualizada, mesmo que a organização seja a da Entrega 1. Na Entrega 1, os erros mais comuns foram: porte sem números, problema declarado que depois não aparecia no DER, evidências fora do repositório e modelo cobrindo só parte da organização. Evite-os: Nome e natureza da organização: qual organização real o grupo escolheu (com acesso garantido para pesquisa de campo) — pode ser uma empresa (livraria, lanchonete, pet shop), uma ONG, uma associação comunitária ou outra instituição.
 
 • Lolly Fantasias. Loja especializada na venda de fantasias infantis e adultas.
