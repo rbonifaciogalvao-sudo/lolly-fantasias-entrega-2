@@ -3,7 +3,7 @@ Entrega 2 — Modelo Lógico, Implementação SQL e Apresentação Final Modelag
 
 Relatório Técnico Final (arquivo Markdown — reúne a maior parte da Dimensão Conceitual, 30%) O Relatório Técnico Final deve ser o próprio README.md da raiz da branch main, seguindo a estrutura deste esqueleto. Relatório entregue em outro arquivo (PDF, Word, outro .md, Google Docs, wiki do GitHub etc.) não será corrigido. Os demais artefatos (DER, modelo lógico, dicionário de dados, levantamento, script SQL, massa de dados, slides) ficam em arquivos separados no repositório, com link a partir do README. Integrantes Nome completo do aluno RGM Usuário do GitHub Nome RGM usuario
 
-Nome completo do aluno	RGM	Usuário do GitHub
+Nome completo do aluno	RGM	Usuário do GitHub 
 Rafaela Bonifacio Galvão	48178837	rbonifaciogalvao-sudo
 Wilchid Vilsaint	47443227	wilchid1-cpu
 Yago Lima de Queiroz	48140597	yagoqueiroz250-bit
@@ -11,6 +11,12 @@ Yago Lima de Queiroz	48140597	yagoqueiroz250-bit
 
 | Nome completo do aluno | RGM |	Usuário do GitHub |
 | Rafaela Bonifacio Galvão | 48178837 |rbonifaciogalvao-sudo|
+| Wilchid Vilsaint | 47443227 | wilchid1-cpu |
+| Yago Lima de Queiroz | 48140597 | yagoqueiroz250-bit |
+
+| Nome completo do aluno | RGM | Usuário do GitHub |
+|---|---|---|
+| Rafaela Bonifacio Galvão | 48178837 | rbonifaciogalvao-sudo |
 | Wilchid Vilsaint | 47443227 | wilchid1-cpu |
 | Yago Lima de Queiroz | 48140597 | yagoqueiroz250-bit |
 
