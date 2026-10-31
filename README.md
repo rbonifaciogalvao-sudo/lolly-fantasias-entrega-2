@@ -66,6 +66,8 @@ KPI sem consulta no script que o calcule não é considerado KPI. Cada problema 
 Modelo Lógico Relacional (diagrama separado — vale 10% na Dimensão Procedimental) O modelo lógico deve seguir a notação visual do brModelo para o modelo lógico, como no exemplo abaixo. Informe no README em qual software ou aplicativo ele foi criado.
 Elemento Como aparece No exemplo Tabela retângulo com o nome da tabela no topo e uma linha por coluna Entity 1, Entity 5 Coluna nome da coluna, à esquerda, com o tipo de dado à direita Attribute 30 — INT Chave primária marca PK ao lado do tipo Chave 1, em Entity 1; Chave 50 + Chave 51, em Entity 5 (chave primária composta) Chave estrangeira marca FK ao lado do tipo Chave 3, em Entity 4 Coluna que é chave primária e estrangeira marcas PK, FK Chave 1, em Entity 2 Ligação entre tabelas linha entre a tabela da FK e a tabela referenciada, com a cardinalidade (mín, máx) em cada ponta Entity 3 — Entity 4: (1, 1) e (0, n)
 
+![Modelo lógico relacional da Lolly Fantasias](diagrama/modelo_logico.jpeg)
+
 Deve apresentar claramente: Tabelas Atributos (colunas), com seus tipos de dados Chaves primárias Chaves estrangeiras Cardinalidades já convertidas As demais restrições de integridade — obrigatoriedade (NOT NULL), unicidade (UNIQUE), valores permitidos (CHECK), valores padrão (DEFAULT) — não aparecem no diagrama do brModelo e devem ser documentadas no dicionário de dados (seção 5) e implementadas no script SQL (seção 3).
 
 
